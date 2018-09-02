@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/viewhistory"
+        android:title="View History"
+
+        android:icon="@drawable/ic_restore_black_24dp"
+
+        />
+    <item
+        android:id="@+id/graphview"
+        android:title="Graph View"
+
+        android:icon="@drawable/ic_assessment_black_24dp"
+        />
+
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"
+
+        android:icon="@drawable/ic_chat_black_24dp"
+
+        />
+
+</menu>

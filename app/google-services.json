@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "726492724079",
+    "firebase_url": "https://bmicalculatordemo.firebaseio.com",
+    "project_id": "bmicalculatordemo",
+    "storage_bucket": "bmicalculatordemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726492724079:android:00aba04a91acde9f",
+        "android_client_info": {
+          "package_name": "com.example.chandan.bmicalculatordemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726492724079-rc8vis6mhoc9gho7foagbie3ia5eeki2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chandan.bmicalculatordemo",
+            "certificate_hash": "4de0baeced7d704ea4fca179e62ca0b29bdd8f71"
+          }
+        },
+        {
+          "client_id": "726492724079-avgr0g0en8p2nbafui30nabvo7l9i4jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN5WYL34mfmF4GV_xRkZh2c7m4ZUC7mGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726492724079-avgr0g0en8p2nbafui30nabvo7l9i4jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
